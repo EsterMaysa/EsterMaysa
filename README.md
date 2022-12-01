@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Oi 👋 , eu sou Ester Maysa</h1><h3 align="center">Estudante da Etec do 1° ano- Desenvolvimento de Sistemas</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estemaysa" alt="estemaysa" /></a> </p>
 
 
