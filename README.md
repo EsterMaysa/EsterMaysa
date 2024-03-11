@@ -7,7 +7,7 @@
 <h3 align="left">Conecte-se ⚡ comigo:</h3><p align="left">
 
 <a href="https://instagram.com/@ester_maysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ester_maysa" height="30" width="40" /></a >
-</p>
+</p> 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estermaysa2@gmail.com)
 
