@@ -1,8 +1,8 @@
 ![welcome-cat](https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273)
 
-<h2 align='center'> oi, eu sou a Ester </h2>
+<h2 align='center'> oi, sou Ester </h2>
 
-<h3 align="center">Estudante da Etec do 3° ano- Desenvolvimento de Sistemas</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<h3 align="center">Estudante da Etec do 3° ano Desenvolvimento de Sistemas</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
 <h3 align="left">Conecte-se ⚡ comigo:</h3><p align="left">
 
