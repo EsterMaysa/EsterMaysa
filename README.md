@@ -1,4 +1,4 @@
-![welcome-cat](https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273)
+<img align="center"![welcome-cat](https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273)/>
 
 <h2 align='center'> Olá, sou Ester Maysa </h2>
 
