@@ -2,7 +2,9 @@
 
 <h2 align='center'> oi, sou Ester </h2>
 
-<h3 align="center">Estudante da Etec do 3° ano Desenvolvimento de Sistemas</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<h3 align="center">Estudante Cruzeiro do Sul Analise Desenvolvimento de Sistemas 1/4 </h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<h4>Sou formada em tecnicco de Ddesenvolvimento de sistemas pela Etec</h4>
 
 <h3 align="left">Conecte-se ⚡ comigo:</h3><p align="left">
 
