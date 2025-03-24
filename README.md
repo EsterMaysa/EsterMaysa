@@ -6,7 +6,8 @@
   
 <h4 align="center">Um pouco sobre mim!</h4>
   
-<h4 align="center">Olá me chamo Ester Maysa, tenho 18 anos, atualmente estou cursando Analise de desenvolvimento de Sistemas na Cruzeiro do Sul. Sou formada em Tecnico de Desenvolvimento de Sistemas pela Etec de Guaianazes</h4>
+<h4 align="center">Olá me chamo Ester Maysa, tenho 18 anos, atualmente estou cursando Analise de desenvolvimento de Sistemas na Cruzeiro do Sul.   
+  Sou formada em Tecnico de Desenvolvimento de Sistemas pela Etec de Guaianazes</h4>
 
 <h3 align="left">Conecte-se ⚡ comigo:</h3><p align="left">
 
