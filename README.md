@@ -1,10 +1,12 @@
-<img align="center"![welcome-cat](https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273)/>
-
+<p align="center">
+<img src="https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273" width="800"
+  />
+</p>
 <h2 align='center'> Olá, sou Ester Maysa </h2>
 
-<h3 align="center">Estudante Cruzeiro do Sul Analise Desenvolvimento de Sistemas 1/4 </h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<h3 align="center">Estudante Cruzeiro do Sul Analise Desenvolvimento de Sistemas 1/4 💻 </h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   
-<h4 align="center">Um pouco sobre mim!</h4>
+
   
 <h4 align="center">Olá me chamo Ester Maysa, tenho 18 anos, atualmente estou cursando Analise de desenvolvimento de Sistemas na Cruzeiro do Sul.   
   Sou formada em Tecnico de Desenvolvimento de Sistemas pela Etec de Guaianazes</h4>
