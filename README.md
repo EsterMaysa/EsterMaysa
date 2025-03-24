@@ -3,8 +3,10 @@
 <h2 align='center'> Olá, sou Ester Maysa </h2>
 
 <h3 align="center">Estudante Cruzeiro do Sul Analise Desenvolvimento de Sistemas 1/4 </h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<h4 alig="center", color:"red">Um pouco sobre mim!</h4>
-<h4 alig="center">Olá me chamo Ester Maysa, tenho 18 anos, atualmente estou cursando Analise de desenvolvimento de Sistemas na Cruzeiro do Sul. Sou formada em Tecnico de Desenvolvimento de Sistemas pela Etec de Guaianazes</h4>
+  
+<h4 align="center">Um pouco sobre mim!</h4>
+  
+<h4 align="center">Olá me chamo Ester Maysa, tenho 18 anos, atualmente estou cursando Analise de desenvolvimento de Sistemas na Cruzeiro do Sul. Sou formada em Tecnico de Desenvolvimento de Sistemas pela Etec de Guaianazes</h4>
 
 <h3 align="left">Conecte-se ⚡ comigo:</h3><p align="left">
 
