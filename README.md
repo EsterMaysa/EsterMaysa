@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273" width="800"
+<img src="https://github.com/EsterMaysa/EsterMaysa/assets/112183966/6110e404-1519-4818-bb18-ae076692c273" width="500"
   />
 </p>
 <h2 align='center'> Olá, sou Ester Maysa </h2>
